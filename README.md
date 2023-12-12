@@ -5,7 +5,7 @@ Hoe wordt er in verschillende kranten over het klimaat gerapporteerd?
 In dit project is de toon van klimaatgerelateerde artikelen uit de Volkskrant en de Telegraaf geanalyseerd.
 
 ## Vereisten
-Alle codes zijn geschreven inPython 3. Om dit project te gebruiken is de pattern module nodig (Nederlandse model `pattern.nl`).
+Alle codes zijn geschreven inPython 3. Om dit project te gebruiken is de pattern module nodig (Nederlandse model: `pattern.nl`).
 
 ## Inhoud
 De Projectmap bevat 10 krantenartikelen uit de Volkskrant en 10 krantenartikelen uit de Telegraaf. Een deel van deze artikelen is  klimaatgerelateerd, het andere deel zijn willekeurige artikelen die niet over het klimaat gaan.
